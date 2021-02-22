@@ -8,7 +8,7 @@ Big Data and Machine Intelligence, Spring 2021.
 ## 教师与助教
 Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、[Min Guo](https://github.com/guo-m13)
 
-TAs: 
+TAs: [Zefang Zong](https://github.com/zongzefang)、[Yiyi Pan](https://github.com/pan11a)
 
 ## 目录结构
 - [Computing](Computing)/ Python-算法-机器学习材料 
