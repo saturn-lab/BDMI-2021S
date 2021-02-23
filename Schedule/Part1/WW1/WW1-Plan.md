@@ -28,8 +28,9 @@ Bring Your Laptop to Class.
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | Git语法简介、Git操作     |  讲课    |    ZZF  |  |
-|   2       | Github fork/ Git Clone本项目     |  实践    |    TAs     |  上传Number.md，PR给课程项目      |
-|   3       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |  目录logistics   |
+|   2       | 实验说明[0_Project](../../../Course-Projects/0_Project) |   实践   |   TAs   |    想一想，做一做    |
+|   3       | Github fork / Git Clone本项目     |  实践    |    TAs     |  上传“自我介绍.md”，PR给课程项目      |
+|   4       | Github 更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |  目录logistics   |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
@@ -41,7 +42,7 @@ Bring Your Laptop to Class.
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   1       | Markdown语法介绍    |  讲课    |   PYY    | 下载安装typora软件    |
 |   2       | markdown撰写个人自我介绍 ``Assigned-Number.md``  |  讲课    |     PYY     |   ``Assigned-Number.md``      |
-|   3       | markdown输入数学公式  |  讲课    |     PYY     |   [0_Project](../../Course-Projects/0_Project)      |
+|   3       | markdown输入数学公式  |  讲课    |     PYY     |        |
 |   4       | [Math in Markdown](math-md.md) |   实践   |   TAs   |    想一想，做一做    |
 
 
