@@ -14,7 +14,7 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   ZZF   |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
+|   2       | Python运行设置/软件安装/Jupyter安装/     |  实践    |   ZZF   |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
