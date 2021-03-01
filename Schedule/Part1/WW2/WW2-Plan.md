@@ -34,18 +34,18 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   9       |  Matplotlib画图[notebook](../../../Computing/Python3/matplotlib_python/plot.ipynb)   |  讲课    |     ZY     |           |
-|   10       |  小练习：  |   实践   |     ZY     |    想一想，做一做      |
+|   6       |  Matplotlib画图[notebook](../../../Computing/Python3/matplotlib_python/plot.ipynb)   |  讲课    |     ZZF     |           |
+|   7       |  小练习：  |   实践   |     ZZF     |    想一想，做一做      |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   11       | Tkinter GUI图形化接口     |  讲课    |    CZ/GM    |          |
+|   8       | Tkinter GUI图形化接口     |  讲课    |    CZ/GM    |          |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   14      | [展望下节课](../WW3/WW3-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
+|   9      | [展望下节课](../WW3/WW3-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
