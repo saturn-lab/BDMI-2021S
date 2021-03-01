@@ -9,14 +9,14 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---:   |
-|   1       | BDMI课程简介    | 讲课    |     CZ     |   all     |
-|   2       | 教师与助教介绍    | 讲课    |     CZ     |   all     |
-|   3       | BDMI实验设施，实验环境    | 讲课    |     CZ     |   all     |
+|   1       | 课程简介    | 讲课    |     CZ     |   15 min   |
+|   2       | 教师助教介绍    | 讲课    |     CZ     |   5 min   |
+|   3       | 课程设施，实验环境，课程延申 | 讲课    |     CZ     |   10 min   |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---:   |
-|   4       | 课程团建 |   练习    |     GM        |     all     |
+|   4       | 课程团建 |   练习    |     GM        |     25 min     |
 
 
 
@@ -44,11 +44,6 @@ Bring Your Laptop to Class.
 |   2       | markdown撰写个人自我介绍 ``Assigned-Number.md``  |  讲课    |     PYY     |   ``Assigned-Number.md``      |
 |   3       | markdown输入数学公式  |  讲课    |     PYY     |        |
 |   4       | [Math in Markdown](math-md.md) |   实践   |   TAs   |    想一想，做一做    |
-
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   2       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |   ZZF   |   推荐用官网安装python，编辑器选 VS Code/Sublime/Notepad++     |
 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |   备注       |
