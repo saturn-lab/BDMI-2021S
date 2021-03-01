@@ -25,12 +25,6 @@ Bring Your Laptop to Class.
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   4      | 算法思想  |  讲课    |     GM     |         |
-|   5      | 一元二次方程方法  |   实践    |     GM     |         |
-
-
-|时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   6       | Python计算Pi([课件](../WW1/lectures/%E5%9C%86%E5%91%A8%E7%8E%87%E8%AE%A1%E7%AE%97.pdf) )      |  讲课    |     GM     |         |
 |   7       | (PI[notebook](../../../Computing/Python3/PI_Python/calculate_pi.ipynb))     |  体验    |     GM     |         |
 
