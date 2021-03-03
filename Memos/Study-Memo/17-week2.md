@@ -1,0 +1,19 @@
+## 第二周课程总结
+
++ 学了python的基本语法，很直接，也很实用
+
++ 学了怎么安装编译环境，了解了Jupyter notebook的用法
+
++ python语法：
+
+  ​	python数据类型：整型、浮点、字符串，数组，集合，字典，元组
+
+  ​	python面向对象：类，实例化，函数
+
+  ​	python条件与循环：if、for、while
+
+  ​	python模块与包：主要是matplotlib
+
++ 以前我也自己安装过python，用过IDLE和pycharm，感觉还是VSCODE和Jupyter notebook好用
+
+  以前用过matplotlib和matlab画图，对这段知识还算了解，老师讲得很通俗，非常感谢。
