@@ -10,7 +10,7 @@ Bring Your Laptop  and Smart Phone to Class.
 
 |时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :--- |   :-------:    |   :----:    |    :----:    | ---: |
-|   1  |  [回顾上节课](../WW7/WW7-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |      |
+|   1  |  [回顾上节课](../WW3/WW3-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |      |
 
 
 | 时间段 |           内容            | 讲课 / 实践 |   分工  | 备注 |
@@ -37,12 +37,12 @@ Bring Your Laptop  and Smart Phone to Class.
 
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
 | :---  |  :------:  | :----:  |    :----:    | ---: |
-|   5  |  课程小结，[展望下节课](../WW9/WW9-Plan.md)       |     |  CZ |   |
+|   5  |  课程小结，[展望下节课](../WW5/WW5-Plan.md)       |     |  CZ |   |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :-------:    |   :----:    |    :----:    |       ---: |
 |   1      | 实验代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
-|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至10月27日下午1点      |
-|   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至10月27日下午1点      |
+|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至 月 日下午1点      |
+|   3      | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至月 日下午1点      |
 
 大家注意：勿上传``有版权``的课程参考资料。
