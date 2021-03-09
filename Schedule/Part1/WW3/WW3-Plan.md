@@ -23,7 +23,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | ---: |
 |    4   | 深度学习1：人工神经元 |  讲课    |    CZ    |    30 min     |
-|    4   | [activation Funcation: numpy实现](../../../Computing/Python3/numpy)   |  讲课，实践    |    WX    |    想一想，练一练（参考答案）      |
+|    4   | [activation Funcation: numpy实现](../../../Computing/Python3/numpy)   |  讲课，实践    |    PYY    |    想一想，练一练（参考答案）      |
 
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  | 备注 |
@@ -39,7 +39,7 @@ Bring Your Laptop  and Smart Phone to Class.
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---   |   :----:    |   :----:    |    :----:    |       ---: |
-|   1    | 实验代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
+|   1    | 实验代码的验收     |  实验   |     CZ/GM/ZZF/PYY     |    腾会会议室开启等候室，排队验收     |
 |   2    | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至 月  日下午1点      |
 |   3    | 小结目录 更新 [Memo-Summary](../../Memos/Memo-Summary)  |  实践    |     CZ&TAs     |   最迟至 月  日下午1点      |
 
