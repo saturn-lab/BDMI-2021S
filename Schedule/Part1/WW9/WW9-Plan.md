@@ -5,7 +5,7 @@ Bring Your Laptop and smart phone  to Class.
 | 时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---   |   :----:    |   :----:    |    :----:    | ---: |
 |   0    |  课程签到     |  logistics   |          |        |
-|   1    |  [回顾上节课](../WW12/WW12-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |       |
+|   1    |  [回顾上节课](../WW8/WW8-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |       |
 
 
 ## 循环网络
@@ -31,11 +31,11 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   8   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  all   |  5 min   |
+|   7   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  all   |  5 min   |
 
 
 |时间段  |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   9   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
-|   10   | 课程小结，[展望下节课](../WW14/WW14-Plan.md)    |     |  CZ   |       |
+|   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
+|   9   | 课程小结，[展望下节课](../../Part2/WW10/WW10-Plan.md)    |     |  CZ   |       |
 
