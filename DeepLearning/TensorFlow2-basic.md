@@ -18,7 +18,7 @@
 | :----- | :------------: | :---------: | :-----: | :----- |
 |    5   |  计算图  |  讲课，实践    |    WX    |  计算图：https://tensorflow.google.cn/guide/intro_to_graphs   |
 |    6   |  模型   |    实践     |  ZY   |  模型：https://tensorflow.google.cn/guide/intro_to_modules   |
-|    7   |  循环训练  |  讲课，实践    |    GM    |  训练流程：https://tensorflow.google.cn/guide/basic_training_loops   |
+|    7   |  训练循环  |  讲课，实践    |    GM    |  训练流程：https://tensorflow.google.cn/guide/basic_training_loops   |
 
 
 ## 第三部分
