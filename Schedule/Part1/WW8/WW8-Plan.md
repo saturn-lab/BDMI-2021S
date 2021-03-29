@@ -1,4 +1,4 @@
-2020-12-01
+2021-04-13
 
 Bring Your Laptop and smart phone  to Class. 
 
@@ -37,6 +37,9 @@ Bring Your Laptop and smart phone  to Class.
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
 |   3   | [TensorFlow2-tf.data和加载图片](../../../DeepLearning/TensorFlow2-basic.md)   | 讲课 |  ZY   |  20 min   |
 
+|时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :---  |   :----:    |   :----:    |    :----:    | ---: |
+|   6   | 大作业-见说明   | 实践 |  ZY   |  20 min   |
 
 |时间段  |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
