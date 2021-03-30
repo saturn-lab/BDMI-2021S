@@ -16,8 +16,8 @@
 | 时间段 |       内容     | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :------------: | :---------: | :-----: | :----- |
 |    4   |  模型   |    实践     |  ZZF   |  模型：https://tensorflow.google.cn/guide/intro_to_modules   |
-|    5   |  训练循环  |  讲课，实践    |    GM    |  训练流程：https://tensorflow.google.cn/guide/basic_training_loops   |
-|    6   |  计算图  |  讲课，实践    |    PYY    |  计算图：https://tensorflow.google.cn/guide/intro_to_graphs   |
+|    5   |  计算图  |  讲课，实践    |    PYY    |  计算图：https://tensorflow.google.cn/guide/intro_to_graphs   |
+|    6   |  训练循环  |  讲课，实践    |    GM    |  训练流程：https://tensorflow.google.cn/guide/basic_training_loops   |
 |    7   |  即刻执行   |    实践     |  CZ   |  即刻执行： https://tensorflow.google.cn/guide/eager   |
 
 
