@@ -4,3 +4,4 @@
 
 * [第4周小结](https://github.com/Yufei-Zheng/BDMI-2021S/blob/main/Memos/Study-Memo/03-Day4.md)
 
+* [第5周小结](https://github.com/Yufei-Zheng/BDMI-2021S/blob/main/Memos/Study-Memo/03-Day5.md)
