@@ -10,11 +10,21 @@ Yoshua Bengio, Ian Goodfellow, Aaron Courville, Deep Learning, MIT Press, 2016. 
 Atilim Gunes Baydin et al., Automatic differentiation in machine learning a survey, jmlr 2018.
 
 
-## LSTM
-Long short term memory neural computation, Neural computation 9 (8), 1735-1780, 1997. 
+## Machine Learning
+Jordan, M. I. , &  Mitchell, T. M. Machine learning: trends, perspectives, and prospects. Science, 2015, 349(6245), 255-260.
+
 
 ## Deep
 Geoffrey E. Hinton, Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554.
+
+
+## ConvNet
+AlexNet - ImageNet Classification with Deep Convolutional Neural Networks-nips-2012
+
+
+## LSTM
+Long short term memory neural computation, Neural computation 9 (8), 1735-1780, 1997. 
+
 
 ## ASR
 Alex Graves et al., Connectionist temporal classification labelling unsegmented sequence data with recurrent neural networks, ICML 2006.
