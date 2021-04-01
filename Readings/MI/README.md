@@ -15,7 +15,10 @@ Jordan, M. I. , &  Mitchell, T. M. Machine learning: trends, perspectives, and p
 
 
 ## Deep
+Lecun Y, Bengio Y, Hinton G., Deep learning. Nature, 2015, 521(7553):436-444.
+
 Geoffrey E. Hinton, Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554.
+
 
 
 ## ConvNet
