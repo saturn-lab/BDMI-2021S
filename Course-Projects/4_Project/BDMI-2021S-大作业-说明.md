@@ -3,21 +3,21 @@
 ## 内容描述
 发布时间：2021/04/08 （校历第7周）
 
-截止日期：2021/5/4（暂定）（校历第11周）
+截止日期：2021/5/11（暂定）（校历第12周）
 
 ##  数据集 
 
-24句语音指令的语音频谱数据集(spectrogram)，语音数据集中包括：
+24句语音指令的语音时频谱数据集(spectrogram dataset)，语音数据集中包括：
 
 40个人的人声语料数据集，20个人的人声验证数据集。 
 
-频谱图数据集：https://cloud.tsinghua.edu.cn/f/db9d627e4b5d4978973f/
+时频谱图数据集：https://cloud.tsinghua.edu.cn/f/db9d627e4b5d4978973f/
 
 请同学们拷贝这个数据集即可。
 
 ## 课程大作业的内容
 
-在输出频谱图数据集上，通过设计深度神经网络模型，得出预测结果。 
+在输出的时频谱图数据集上，通过设计深度神经网络模型，得出预测结果。 
 
 分类过程的几种参考方案
 
@@ -60,4 +60,4 @@
 
 原始语音数据集，网页链接：https://cloud.tsinghua.edu.cn/f/24af9e36671e43c9a5af/
 
-频谱图生成audioPlot项目。项目网页链接： https://github.com/saturn-lab/audioPlot
+audioPlot项目生成时频谱图。项目网页链接： https://github.com/saturn-lab/audioPlot
