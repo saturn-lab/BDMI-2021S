@@ -11,31 +11,26 @@ Bring Your Laptop and smart phone  to Class.
 ## 循环网络
 | 时间段 |          内容        | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :-------------------: | :------: | :---: | ---: |
-|   2    | 深度学习4：网络架构   |    讲课     |  CZ   |   10 min     |
-|   3    | 深度学习6：循环网络   |    讲课     |  CZ   |   30 min     |
+|   2    | 深度学习6：循环网络   |    讲课     |  CZ   |   30 min     |
 
 
 | 时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :----  |   :----:    |   :----:    |    :----:    | ---: |
-|   4    | [TensorFlow2-循环网络](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  CZ   |  20 min   |
+|   3    | [TensorFlow2-循环网络](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  CZ   |  20 min   |
 
 
 |时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   6   | [TensorFlow2-Keras：循环网络应用](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  CZ   |  30 min   |
-
-|时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
-| :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   5   | [TensorFlow2-Keras：循环网络](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  GM/CZ   |  20 min   |
+|   4   | [TensorFlow2-Keras：循环网络应用](../../../DeepLearning/TensorFlow2-rnn-basic.md)   | 讲课 |  all   |  30 min   |
 
 
 |时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   7   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  PYY   |  5 min   |
+|   5   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  PYY   |  5 min   |
 
 
 |时间段  |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   8   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
-|   9   | 课程小结，[展望下节课](../../Part2/WW10/WW10-Plan.md)    |     |  CZ   |       |
+|   6   | 学习小结.md 上交至[Study-Memo](../../Study-Memo)   |  实践    |     CZ&TAs     |   最迟一周之后     |
+|   6   | 课程小结，[展望下节课](../../Part2/WW10/WW10-Plan.md)    |     |  CZ   |       |
 
