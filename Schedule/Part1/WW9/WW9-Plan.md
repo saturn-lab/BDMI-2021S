@@ -26,7 +26,7 @@ Bring Your Laptop and smart phone  to Class.
 
 |时间段 |  内容    |  讲课 / 实践     |  分工  |  备注       |
 | :---  |   :----:    |   :----:    |    :----:    | ---: |
-|   5   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  PYY   |  5 min   |
+|   5   | [课程大作业](../../..//Course-Projects/4_Final_Project/BDMI-2020A-大作业-说明.md)   | 大作业 |  PYY   |  10 min   |
 
 
 |时间段  |  内容    |  讲课 / 实践     |  分工  |  备注       |
