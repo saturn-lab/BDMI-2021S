@@ -12,19 +12,9 @@
 
 推荐大家去GitHub上找现成的问题和解决思路，在Github搜索{computer vision, NLP, RL, GAN, etc.}；或者参考 如[paperswithcode](https://paperswithcode.com/sota)。
 
-（2）研究一篇前沿论文的，如数据系统与机器学习的结合等方向，包括但不限于：
+（2）研究一篇前沿论文的，包括但不限于：机器学习最新进展、强化学习最新应用等，
+比如：[谷歌AI研究](https://ai.goole.com)，[Facebook AI](https://ai.facebook.com/research)，[OpenAI](https://openai.com)等链接。
 
-机器学习排序（Learned Sorting），机器学习索引（Learned index），机器学习调度（Learned Scheduling），机器学习势估计（Learned Cardinality Estimating）等等。
-
-**实践型（加分）：** 
-
-（3）完成课程的2个动手作业：
-
-[helmet-recog](../helmet-recog/easyHelmet.md)和[speech-recog](../speech_command24/speech_command24.md)，选择其一。
-
-（4）在此基础上，采用[TensorFlow-Lite](https://tensorflow.google.cn/lite/examples?hl=zh_cn)，对模型进行优化，能够部署演示并能说明工作原理的；详见：[tensorflow-lite](https://tensorflow.google.cn/lite/guide?hl=zh_cn)
-
-（5）使其真正部署在树莓派或Jetson等实际硬件上，能够demo真正工作的。
 
 ## **选题组队、提交材料与截止：**
 
@@ -32,9 +22,9 @@
 
 （1）每组选题互不重叠；每2-3人结成一组；(在线分组协作，如何安排？)（自由选报、WW13在线协调一下）
 
-（2）分组时间：第十四周之前（ 5 月 18 日）（报名单）
+（2）分组时间：第12周之前（ 5 月 12 日）（报名单）
 
-（3）题目选定时间：最迟在十五周课上确定； （报题目）
+（3）题目选定时间：最迟在第13周课上确定(5月18日)； （报题目）
 
 
 **答辩提交材料** 
@@ -42,15 +32,15 @@
 最终提交一份课程报告WORD和展示PPT。
 
 
-**提交截至时间：** （暂定，视返校情况而定，可能顺延至夏季学期1-3周内）
+**提交截至时间：** （）
 
 **（暂定）第十六周，进行期末结题汇报。**
 
-展示：第十六周（ 6月 3日）周三下午13点半；（暂定）
+展示：第15周（ 6月 1日）周二下午13点半；（暂定）
 
-课题PPT，第十六周周三（2020年6月3日）中午12:00之前；
+课题PPT，第15周周二（6月1日）中午12:00之前；
 
-课程报告WORD，第十八周周六（2020年6月20日）晚上23点； 
+课程报告WORD，第17周周六（6月15日）晚上23点； 
 
 
 ## **评分标准:**
@@ -64,5 +54,3 @@
 \4.技术难度和解决困难（20%）
 
 \5. Your works.  (20%)
-
-
