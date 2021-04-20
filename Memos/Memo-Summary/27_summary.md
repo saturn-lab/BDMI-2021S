@@ -12,3 +12,4 @@
 + [第十二周小结](https://github.com/saturn-lab/BDMI-2021S/blob/main/Memos/Study-Memo/27-Day12.md)
 + [第十三周小结](https://github.com/saturn-lab/BDMI-2021S/blob/main/Memos/Study-Memo/27-Day13.md)
 + [第十四周小结](https://github.com/saturn-lab/BDMI-2021S/blob/main/Memos/Study-Memo/27-Day14.md)
++ [第十五周小结](https://github.com/saturn-lab/BDMI-2021S/blob/main/Memos/Study-Memo/27-Day15.md)
