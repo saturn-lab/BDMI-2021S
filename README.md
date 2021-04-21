@@ -6,7 +6,7 @@ Big Data and Machine Intelligence, Spring 2021.
 **每周教学总安排：**  [教学安排-2021S](Schedule/Schedule-2021S.md)
 
 ## 教师与助教
-Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/)、[Min Guo](https://github.com/guo-m13)
+Instructor: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/info/1060/1298.htm)、[Min Guo](https://github.com/guo-m13)
 
 TAs: [Zefang Zong](https://github.com/zongzefang)、[Yiyi Pan](https://github.com/pan11a)
 
