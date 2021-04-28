@@ -1,10 +1,22 @@
+[toc]
 # Reading materials for BDMI course.
 
-## Book: 
+# Reference Books: 
+
+[1] 机器学习实战：基于Scikit-Learn、Keras和TensorFlow（原书第2版），机械工业出版社，2020-10. 
+
+Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow, O'Reilly book, 2019. 
+
+[2] 弗朗索瓦*肖莱，Python深度学习，人民邮电出版社，2018年8月.
+
+[3] 深度学习，人民邮电出版社，2017年8月.
 
 Yoshua Bengio, Ian Goodfellow, Aaron Courville, Deep Learning, MIT Press, 2016. Link:[deeplearning-book](http://www.deeplearningbook.org)
 
 [Chinese Version](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf) 
+
+
+# Papers:
 
 ## Math
 Atilim Gunes Baydin et al., Automatic differentiation in machine learning a survey, jmlr 2018.
