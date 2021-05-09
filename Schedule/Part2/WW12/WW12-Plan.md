@@ -9,17 +9,17 @@ Bring Your Laptop and smart phone  to Class.
 
 |  时间段 |          内容        | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :-------------------: | :------: | :---: | ---: |
-|   2    |   [TensorFlow2-Keras：循环网络应用](../../../DeepLearning/TensorFlow2-rnn-basic.md)         |     讲课     |    ZZF/all      |        |
-
+|   2    |   [TensorFlow2-Keras：循环网络应用-文本分类](../../../DeepLearning/TensorFlow2-rnn-basic.md)         |     讲课     |    ZZF/all      |    20分钟    |
+|   2    |   [TensorFlow2-Keras：循环网络应用-TransFormer&BERT](../../../DeepLearning/TensorFlow2-rnn-basic.md)         |     讲课     |    ZZF/all      |   40分钟     |
 
 | 时间段 |          内容        | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :-------------------: | :------: | :---: | ---: |
-|   3    |    语音识别原理Audio        |    CZ/PYY      |          |        |
+|   3    |    语音识别原理Audio/        |       讲课       |    CZ/PYY       |   60分钟     |
 
 
 |  时间段 |          内容        | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :-------------------: | :------: | :---: | ---: |
-|   4    |   期中大作业辅导         |     讲课     |    GM/PYY      |   分组辅导      |
+|   4    |   期中大作业辅导         |     讲课     |    CZ/ZZF/GM/PYY      |   分组2组辅导，腾讯会议接入，每位同学演示一下，老师进行指导      |
 
 
 |时间段  |  内容    |  讲课 / 实践     |  分工  |  备注       |
