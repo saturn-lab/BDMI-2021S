@@ -1,4 +1,4 @@
-2021-04-27
+2021-05-18
 
 Bring Your Laptop and smart phone  to Class. 
 
@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段  |          内容        | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :-------------------: | :------: | :---: | ---: |
-|    2   |            |          |          |        |
+|    2   |     计算机视觉       |          |          |        |
 
 
 |时间段  |  内容    |  讲课 / 实践     |  分工  |  备注       |
