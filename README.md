@@ -41,8 +41,6 @@ TAs: [Zefang Zong](https://github.com/zongzefang)、[Yiyi Pan](https://github.co
 ## 课程相关问题和建议
 课程相关问题和建议可在该仓库的Issues下面提出，教师和助教会进行回应解答。
 
-# 致谢
-感谢[腾讯云钛机器学习平台](https://cloud.tencent.com/product/ti)提供的算力支持。
 
 # Notice
 This course is targeted to general education in a sense, and appropriate for students with lit programming skills with one language.
