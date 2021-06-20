@@ -1,5 +1,5 @@
 
-- [第一周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day1.md)
+- [第一周学习小结](../Study-Memo/02-Day1.md)
 - [第二周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day2.md)
 - [第三周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day3.md)
 - [第四周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day4.md) 
@@ -13,3 +13,4 @@
 - [第十二周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day12.md) 
 - [第十三周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day13.md) 
 - [第十四周学习小结](https://github.com/BDMI-2021S/blob/a5c6c3da42e970000a4353e7759495f98c798721/Memos/Study-Memo/02-Day14.md) 
+
